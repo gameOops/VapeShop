@@ -1,0 +1,46 @@
+/*
+Custom Css
+*/
+.card_item {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.items {
+    display: flex;
+    flex-wrap: wrap;
+}
+.product_name >p{
+    font-weight: 400!important;
+    font-size: 27px!important;
+}
+.product_image >img {
+    width: 350px;
+    height: 350px;
+}
+.product_image {
+    display: flex;
+    align-items: center;
+}
+.product_price {
+    background-color: #f1f1f1;
+    padding: 15px;
+    margin-left: 150px;
+}
+.product_price > p{
+    font-size: 26px!important;
+    font-weight: 500!important;
+}
+.product_desc {
+    margin-top: 15px;
+}
+.product {
+    padding: 50px;
+}
+.box {
+    border: 1px solid #ececec;
+    margin-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}

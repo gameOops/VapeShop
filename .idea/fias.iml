@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/fias/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/fias/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/fias/vendor/composer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
